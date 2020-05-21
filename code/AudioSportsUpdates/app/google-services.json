@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "173329113167",
+    "firebase_url": "https://audiosportsupdates.firebaseio.com",
+    "project_id": "audiosportsupdates",
+    "storage_bucket": "audiosportsupdates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173329113167:android:2b124e4b7f67dcd6",
+        "android_client_info": {
+          "package_name": "ie.bim.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173329113167-miefqi87jk6qjr8as1qetlh668lhojoq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.bim.myapplication",
+            "certificate_hash": "e785101410482f3a3af12f3b67831fa4c175a571"
+          }
+        },
+        {
+          "client_id": "173329113167-e1g10pcttdtto6jm3ti95k4gbrddc81f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.bim.myapplication",
+            "certificate_hash": "cd9fa00ddf0a46e5e58468fb055fb0ffc204ac9b"
+          }
+        },
+        {
+          "client_id": "173329113167-jdh9vl8jldp0m4c3pm13m0op0rehrp42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7kQab0BoOdPT2fXtc_lOSUuzuZDd1hNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173329113167-jdh9vl8jldp0m4c3pm13m0op0rehrp42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
